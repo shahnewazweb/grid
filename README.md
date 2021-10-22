@@ -1,4 +1,4 @@
-<h2>Web page by css Grid Layout</h2>
+<h2>CSS Grid Layout</h2>
 
 I am a freelance WordPress developer. I am an expert on HTML, CSS, Jquery, javascript, PHP, Theme development, oxygen builder, Elementor pro, Divi theme, and Astra theme
 
